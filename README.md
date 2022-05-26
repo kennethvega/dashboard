@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+This repo is from a youtube tutorial Build and Deploy a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More. Link:https://www.youtube.com/watch?v=jx5hdo50a2M&t=7903s
+
+Technologies:
+React.js and Syncfusion.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
